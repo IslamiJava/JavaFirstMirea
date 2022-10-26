@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task5.odnophoto;
 
 import javax.swing.*;
@@ -26,4 +26,10 @@ public class Animation1 extends JFrame {
 
 }
 
- */
+
+
+
+
+
+
+

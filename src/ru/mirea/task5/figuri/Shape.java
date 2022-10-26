@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task5.figuri;
 import javax.swing.*;
 public abstract class Shape extends JPanel{
@@ -9,4 +9,8 @@ public abstract class Shape extends JPanel{
     public Shape() {}
 }
 
- */
+
+
+
+
+

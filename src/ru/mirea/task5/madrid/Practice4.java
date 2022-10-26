@@ -1,6 +1,5 @@
-/*
-package ru.mirea.task5.madrid;
 
+package ru.mirea.task5.madrid;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -13,7 +12,7 @@ public class Practice4 {
         JFrame frame = new JFrame("Football");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Container c = frame.getContentPane();
-        c.setBackground(new Color(173,223,173));
+        c.setBackground(new Color(243, 243, 243));
         frame.setSize(600, 350);
         JLabel labelResult = new JLabel("Result: " + goalAC + " x " + goalRM);
         labelResult.setBounds(250,30,100,10);
@@ -27,9 +26,9 @@ public class Practice4 {
         buttonRM.setBounds(310,250,150,30);
         buttonAC.setBounds(140,250,150,30);
         buttonRST.setBounds(250,200,100,30);
-        buttonAC.setBackground(new Color(186, 185, 241));
-        buttonRM.setBackground(new Color(241, 185, 200));
-        buttonRST.setBackground(new Color(133, 132, 132));
+        buttonAC.setBackground(new Color(227, 11, 225));
+        buttonRM.setBackground(new Color(162, 16, 231));
+        buttonRST.setBackground(new Color(219, 23, 23));
         frame.setLayout(null);
         frame.add(buttonAC);
         frame.add(buttonRM);
@@ -90,7 +89,11 @@ public class Practice4 {
     }
 }
 
- */
+
+
+
+
+
 
 
 

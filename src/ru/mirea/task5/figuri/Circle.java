@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task5.figuri;
 import java.awt.*;
 
@@ -16,4 +16,6 @@ public class Circle extends Shape{
     }
 }
 
- */
+
+
+

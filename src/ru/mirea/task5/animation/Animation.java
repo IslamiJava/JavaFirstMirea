@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task5.animation;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
@@ -33,7 +33,15 @@ public class Animation extends JFrame {
     }
 }
 
- */
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task5.odnophoto;
     public class Animation1Test {
         public static void main(String[] args) {
@@ -11,5 +11,11 @@ package ru.mirea.task5.odnophoto;
         }
     }
 
- */
+
+
+
+
+
+
+
 
