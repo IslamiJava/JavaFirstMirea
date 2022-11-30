@@ -20,7 +20,7 @@ public class SortingStudentsByGPA {
         students[6]=new Student1("Барак","Обама","Политик","ИВБО-08-23", 1, 2);
         students[7]=new Student1("Иосиф","Сталин","Генсек","ИНБО-08-21", 3, 1.3);
         students[8]=new Student1("Владимир","Путин","Политик","ББСО-08-21", 2, 1.4);
-        students[9]=new Student1("Джо","Байден","Политик","ИКБnamО-08-21", 4, 1.85);
+        students[9]=new Student1("Джо","Байден","Политик","ИКБО-08-21", 4, 1.85);
     }
 
     public void setArray(Student1[] students) {
