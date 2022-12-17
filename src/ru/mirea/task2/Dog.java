@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task2;
     import java.lang.*;
     public class Dog {
@@ -36,7 +36,7 @@ package ru.mirea.task2;
         }
     }
 
- */
+
 
 
 

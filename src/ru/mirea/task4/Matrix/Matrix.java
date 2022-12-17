@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task4.Matrix;
 import java.util.Locale;
 
@@ -86,7 +86,7 @@ public class Matrix {
     }
 }
 
- */
+
 
 
 

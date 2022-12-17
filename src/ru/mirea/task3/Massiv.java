@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3;
 import java.util.Arrays;
 import java.util.Random;
@@ -65,7 +65,7 @@ public class Massiv {
 
     }
 
- */
+
 
 
 

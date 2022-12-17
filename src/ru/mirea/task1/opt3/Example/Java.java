@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task1.opt3.Example;
 public class Java {
     public static void main(String[] args) {
@@ -8,5 +8,5 @@ public class Java {
     }
 }
 
- */
+
 

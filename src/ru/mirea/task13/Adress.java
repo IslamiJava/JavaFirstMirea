@@ -44,12 +44,12 @@ public class Adress {
         Adress a1 = new Adress("Россия, МО   ,    Москва, проспект Вернадского, 78, 7, Г-226-1", false);
         Adress a2 = new Adress("USSR,      Leningradskaya oblast', Leningrad.    Nevskiy prospect; 234;1;23", true);
         Adress a3 = new Adress("UK, London, London, Trafalgar square, 2, 3, 4, other string,,,", false);
-        Adress a4 = new Adress("Страна; регион;     город    . Улица, дом, корпус. Квартира", true);
+
 
         System.out.println(a1);
         System.out.println(a2);
         System.out.println(a3);
-        System.out.println(a4);
+       
 
     }
 }

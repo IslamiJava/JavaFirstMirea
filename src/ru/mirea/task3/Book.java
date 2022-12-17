@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3;
 import java.lang.*;
 public class Book {
@@ -38,6 +38,6 @@ public class Book {
     }
 }
 
- */
+
 
 

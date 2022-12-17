@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3;
 import java.lang.*;
 public class Circle {
@@ -29,7 +29,7 @@ public class Circle {
     }
 }
 
- */
+
 
 
 

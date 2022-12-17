@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task4.Matrix;
 import java.io.IOException;
 
@@ -22,7 +22,7 @@ public class TestMatrix {
     }
 }
 
- */
+
 
 
 

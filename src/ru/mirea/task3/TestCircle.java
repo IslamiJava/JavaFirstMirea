@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3;
 import java.lang.*;
 public class TestCircle {
@@ -9,7 +9,7 @@ public class TestCircle {
     }
 }
 
- */
+
 
 
 

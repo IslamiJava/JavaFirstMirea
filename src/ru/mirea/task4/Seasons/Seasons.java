@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task4.Seasons;
 public enum Seasons {
     SPRING(5),
@@ -36,7 +36,7 @@ public enum Seasons {
     private double averageTemperature;
 }
 
- */
+
 
 
 

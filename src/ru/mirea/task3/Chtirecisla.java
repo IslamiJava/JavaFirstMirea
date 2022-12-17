@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3;
 
 import java.util.Arrays;
@@ -32,7 +32,7 @@ public class Chtirecisla {
         }
             }
 
- */
+
 
 
 

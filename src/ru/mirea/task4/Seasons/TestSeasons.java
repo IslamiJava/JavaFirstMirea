@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task4.Seasons;
 import java.util.Locale;
 public class TestSeasons {
@@ -19,7 +19,7 @@ public class TestSeasons {
     }
 }
 
- */
+
 
 
 
